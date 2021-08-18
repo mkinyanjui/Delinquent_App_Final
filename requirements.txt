@@ -5,3 +5,4 @@ streamlit==0.69.2
 xlrd==2.0.1
 openpyxl==3.0.6
 matplotlib
+seaborn
